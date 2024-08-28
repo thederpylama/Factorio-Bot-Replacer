@@ -1,0 +1,11 @@
+{
+  "name": "botRequester",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 0.15"],
+  "title": "Robot Requester",
+  "author": "Thederpylama",
+  "contact": "",
+  "homepage": "",
+  "description": ""
+}
